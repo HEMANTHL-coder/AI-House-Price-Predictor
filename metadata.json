@@ -1,0 +1,5 @@
+{
+  "name": "AI House Price Predictor",
+  "description": "An AI-powered application to predict the price of a house based on its size, number of bedrooms, and location using the Gemini API.",
+  "requestFramePermissions": []
+}
