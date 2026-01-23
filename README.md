@@ -42,14 +42,7 @@ Deepak BN – Production Lead
 Kushal U G – Presentation Lead
 
 P Puneeth Raj – Marketing Lead
- ⚙️ Setup Instructions
-npm install
-npm run dev
 
-
-Create .env.local file:
-
-VITE_GEMINI_API_KEY=your_api_key_here
 
 📚 Course
 
