@@ -1,3 +1,59 @@
+📘 AI House Price Predictor
+📌 Project Description
+
+AI House Price Predictor is a web-based application developed as part of the AI Application Development course.
+It uses Google Gemini AI to estimate property prices based on user inputs.
+
+🚀 Features
+
+House price prediction using AI
+
+Price range estimation
+
+AI-generated reasoning
+
+Modern UI using React + TypeScript
+
+Secure API integration
+🛠️ Tech Stack
+
+React
+
+TypeScript
+
+Vite
+
+Google Gemini API
+
+HTML, CSS
+
+👨‍💻   Team Members
+
+Hemanth L – Project Lead & Backend Developer
+
+Harsha K S – Frontend UI & UX
+
+Manjunath Charvik N – Test Lead
+
+Deepak BN – Production Lead
+
+Kushal U G – Presentation Lead
+
+P Puneeth Raj – Marketing Lead
+ ⚙️ Setup Instructions
+npm install
+npm run dev
+
+
+Create .env.local file:
+
+VITE_GEMINI_API_KEY=your_api_key_here
+
+📚 Course
+
+AI Application Development
+REVA University
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
