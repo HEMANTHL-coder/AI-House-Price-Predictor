@@ -17,6 +17,8 @@ AI-generated reasoning
 Modern UI using React + TypeScript
 
 Secure API integration
+
+
 🛠️ Tech Stack
 
 React
